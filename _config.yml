@@ -19,6 +19,6 @@ minima:
     - platform: linkedin
       user_url: "https://linkedin.com/in/mahdi-poorjahangiri"
     - platform: telegram
-      user_url: "https://t.me/mahdi_poorjahangiri"
+      user_url: "https://t.me/mahdi_poorjahangiri"  # won't show icon but works
 
 show_excerpts: true
