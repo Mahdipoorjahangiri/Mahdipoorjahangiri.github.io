@@ -8,9 +8,11 @@
       {{ site.title | escape }}
     </a>
 
-    <!-- 👇 Add site metadata under title -->
+    <!-- Add site metadata under title -->
     <p class="site-meta" style="margin: 0.2rem 0 0.8rem;">
-      {{ site.author }}
+      {%- if site.author -%}
+        {{ site.author }}
+      {%- endif -%}
       {%- if site.email -%}
         • <a href="mailto:{{ site.email }}">{{ site.email }}</a>
       {%- endif -%}
