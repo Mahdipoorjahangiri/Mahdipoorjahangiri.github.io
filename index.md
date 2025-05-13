@@ -75,13 +75,5 @@ This website is my public learning journal.
 [View all posts](/posts)
 ---
 
-## 📬 Contact Me
-
-- GitHub: [Mahdipoorjahangiri](https://github.com/Mahdipoorjahangiri)  
-- LinkedIn: [mahdi-poorjahangiri](https://linkedin.com/in/mahdi-poorjahangiri)  
-- Telegram: [@mahdi_poorjahangiri](https://t.me/mahdi_poorjahangiri)
-
----
-
 Thanks for visiting!  
 Feel free to connect, follow, or just say hi 👋
