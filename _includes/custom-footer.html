@@ -1,21 +1,14 @@
-<footer class="site-footer" style="padding: 1rem; background-color: #f8f8f8;">
-  <div class="container" style="max-width: 1200px; margin: 0 auto;">
-    <div class="footer-content" style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div class="footer-contact">
-        <h3>Contact Me</h3>
-        <p>{{ site.author.email }}</p>
-      </div>
-      <div class="footer-social">
-        <h3>Follow Me</h3>
-        <div class="social-links" style="display: flex; flex-direction: column; gap: 0.5rem;">
-          {% if site.author.github %}
-            <a href="https://github.com/{{ site.author.github }}" target="_blank" style="text-decoration: none; color: #333;">GitHub</a>
-          {% endif %}
-          {% if site.author.linkedin %}
-            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" style="text-decoration: none; color: #333;">LinkedIn</a>
-          {% endif %}
-        </div>
-      </div>
-    </div>
+<footer class="site-footer" style="text-align: center; padding: 1rem;">
+  <div class="footer-content" style="display: flex; justify-content: center; gap: 1rem;">
+    <a href="https://github.com/mahdi-poorjahangiri" style="text-decoration: none; color: #333;">
+      <img src="github-icon.png" alt="GitHub" style="width: 24px; height: 24px;">
+    </a>
+    <a href="https://www.linkedin.com/in/mahdi-poorjahangiri" style="text-decoration: none; color: #333;">
+      <img src="linkedin-icon.png" alt="LinkedIn" style="width: 24px; height: 24px;">
+    </a>
+    <a href="https://t.me/mahdi-poorjahangiri" style="text-decoration: none; color: #333;">
+      <img src="telegram-icon.png" alt="Telegram" style="width: 24px; height: 24px;">
+    </a>
   </div>
+  <p style="margin-top: 1rem;">Mahdi Poorjahangiri/Data Lover | Personal website showcasing my project and blog</p>
 </footer>
