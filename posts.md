@@ -1,7 +1,11 @@
 ---
-layout: default
-title: Blog Posts
+layout: page
+title: All Posts
 permalink: /posts/
 ---
 
-Welcome to my blog section. Here I write about what I learn in tech, and data science.
+# All Blog Posts
+
+{% for post in site.posts %}
+- **{{ post.date | date: "%Y-%m-%d" }}**: [{{ post.title }}]({{ post.url }})
+{% endfor %}

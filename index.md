@@ -29,8 +29,8 @@ permalink: /
 
 ## 🧠 About Me
 
-I’m a computer science student with a deep curiosity for tech, data, and AI.  
-I’m currently learning Python, data science tools & concepts.  
+I’m a computer science student with a deep curiosity for tech, data, and AI,
+currently learning Python, data science tools & concepts.  
 This website is my public learning journal.
 
 ---
@@ -61,7 +61,7 @@ This website is my public learning journal.
 | Tableau       | ⭐⭐✰✰✰    |
 | Linux         | ⭐⭐✰✰✰    |
 
-> ⚠️ I'm still learning — this is an evolving journey.
+> ⚠️ Learning is on Progress - this an is envolving journey
 
 ---
 
