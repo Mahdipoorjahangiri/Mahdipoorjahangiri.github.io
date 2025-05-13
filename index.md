@@ -6,12 +6,12 @@ permalink: /
 
 <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
 
-  <img src="/assets/img/HeadShot.jpg" alt="Mahdi Poor Jahangiri" width="160" style="border-radius: 20%; flex-shrink: 0;" />
+  <img src="/assets/img/HeadShot.jpg" alt="Mahdi Poor Jahangiri" width="160" style="border-radius: 5%; flex-shrink: 0;" />
 
   <div>
 
   <h2>👋 Hi, I'm Mahdi Poor Jahangiri</h2>
-  <p><strong>Aspiring Data Lover</strong></p>
+  <p><strong>Aspiring Data Lover</strong></p>/
   <p>🌱 Exploring tech, data science, AI and Personal Growth</p>
   <p>🛠️ Learning by doing, sharing what I learn</p>
   <p>📍 Iran / Tehran | Fluent in Persian & English</p>
