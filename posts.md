@@ -1,12 +1,12 @@
 ---
 layout: page
-title: All Posts
+title: Posts
 permalink: /posts/
-toc: true
+nav_order: 2
 ---
 
-# All Blog Posts
+# Blog Posts
 
 {% for post in site.posts %}
-- **{{ post.date | date: "%Y-%m-%d" }}**: [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}

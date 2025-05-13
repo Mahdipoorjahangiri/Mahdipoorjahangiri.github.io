@@ -1,31 +1,19 @@
-title: My Tech Journal
-description: Documenting my journey in tech and data
+title: Your Name
+email: mahdiporjahangiri.dev@gmail.com
+description: >-
+  Personal website showcasing my projects and blog posts.
 baseurl: ""
 url: "https://Mahdipoorjahangiri.github.io"
+github_username: Mahdipoorjahangiri
+linkedin_username: mahdi-poorjahangiri
+
 theme: minima
 
-# Author Info
-author:
-  name: Mahdi Poorjahangiri
-  email: mahdiporjahangiri.dev@gmail.com
-  github: Mahdipoorjahangiri
-  links:
-    - name: GitHub
-      url: https://github.com/Mahdipoorjahangiri
-    - name: LinkedIn
-      url: https://linkedin.com/in/mahdi-poorjahangiri
-    - name: Telegram
-      url: https://t.me/mahdi_poorjahangiri
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Minima Theme Settings
-minima:
-  skin: auto
-  dark_mode: true
-  show_excerpts: true
-  show_author_links: true
-  show_footer_links: true
-  social_links:
-    email: mahdiporjahangiri.dev@gmail.com
-    github: Mahdipoorjahangiri
-    linkedin: mahdi-poorjahangiri
-    telegram: mahdi_poorjahangiri
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
