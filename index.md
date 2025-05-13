@@ -4,17 +4,24 @@ title: Home
 permalink: /
 ---
 
-<div align="center">
-<img src="assets/img/HeadShot.jpg" alt="Mahdi Poor Jahangiri" width="180" style="border-radius: 50%; margin-bottom: 1rem;" />
+<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
 
-# 👋 Hi, I'm Mahdi Poor Jahangiri  
-**Aspiring Data Lover**
+  <img src="/assets/img/HeadShot.jpg" alt="Mahdi Poor Jahangiri" width="160" style="border-radius: 50%; flex-shrink: 0;" />
 
-🌱 Exploring tech, data science, AI, Personal Growth 
-🛠️ Learning by doing, sharing what I learn  
-📍 Iran/Tehran | Fluent in Persian & English
+  <div>
 
-[GitHub](https://github.com/Mahdipoorjahangiri) • [LinkedIn](https://linkedin.com/in/mahdi-poorjahangiri) • [Telegram](https://t.me/mahdi_poorjahangiri)
+  <h2>👋 Hi, I'm Mahdi Poor Jahangiri</h2>
+  <p><strong>Aspiring Data Lover</strong></p>
+  <p>🌱 Exploring tech, data science, AI, Personal Growth</p>
+  <p>🛠️ Learning by doing, sharing what I learn</p>
+  <p>📍 Iran / Tehran | Fluent in Persian & English</p>
+  <p>
+    <a href="https://github.com/Mahdipoorjahangiri">GitHub</a> •
+    <a href="https://linkedin.com/in/mahdi-poorjahangiri">LinkedIn</a> •
+    <a href="https://t.me/mahdi_poorjahangiri">Telegram</a>
+  </p>
+
+  </div>
 
 </div>
 
@@ -22,20 +29,21 @@ permalink: /
 
 ## 🧠 About Me
 
-I’m a computer science student with a deep curiosity for tech, data,AI. I’m currently learning Python, data Scientist tools & Concepts.This website is my public learning journal.
+I’m a computer science student with a deep curiosity for tech, data, and AI.  
+I’m currently learning Python, data science tools & concepts.  
+This website is my public learning journal.
 
 ---
 
 ## 💼 Work Experience 
 
-- **Data Scientist Intern** – [tamironline](https://tamironline.com/) Apr2025-Present
-
+- **Data Scientist Intern** – [tamironline](https://tamironline.com/) (Apr 2025–Present)
 
 ---
 
 ## 📚 Education
 
-- 🎓 B.Sc. in Computer Science/Islamic Azad University Central Tehran Branch *(in progress)*
+- 🎓 B.Sc. in Computer Science — Islamic Azad University, Central Tehran Branch *(in progress)*
 
 ---
 
