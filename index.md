@@ -1,31 +1,76 @@
+[GitHub](https://github.com/Mahdipoorjahangiri) • [LinkedIn](https://linkedin.com/in/mahdi-poorjahangiri) • [Telegram](https://t.me/mahdi_poorjahangiri)
+
 ---
 layout: page
-title: Welcome
+title: Home
 permalink: /
 ---
 
-## 👋 About Me
+<div align="center">
 
-I'm a computer science student and beginner in tech, data science, AI, and programming. I'm curious about personal growth and productivity
+# 👋 Hi, I'm Mahdi Poor Jahangiri  
+**Aspiring Data Lover**
 
-## 💼 Job Interests
+🌱 Exploring tech, data science, AI, Personal Growth 
+🛠️ Learning by doing, sharing what I learn  
+📍 Iran/Tehran | Fluent in Persian & English
 
-- Aspiring Data Engineer / Data Scientist  
-- Interested in practical applications of AI and on-chain/crypto analysis  
-- Exploring opportunities in tech and data fields
+[GitHub](https://github.com/Mahdipoorjahangiri) • [LinkedIn](https://linkedin.com/in/mahdi-poorjahangiri) • [Telegram](https://t.me/mahdi_poorjahangiri)
 
-## 📚 Education
-
-- **Major:** Computer Science@Islamic Azad University Central Tehran Branch
-
-## 🧠 Skills (in progress)
-
-- Python-Intermediate
-- Python Lib : Pandas, Numpy, Plotly, Scikit-Learn, ... - Intermediate
-- SQL - Intermediate 
-- Jupyter, basic data analysis - Intermediate
-- Git & GitHub - basic 
+</div>
 
 ---
 
-Thanks for visiting! 🙌
+## 🧠 About Me
+
+I’m a computer science student with a deep curiosity for tech, data,AI. I’m currently learning Python, data Scientist tools & Concepts.This website is my public learning journal.
+
+---
+
+## 💼 Work Experience 
+
+- **Data Scientist Intern** – [tamironline](https://tamironline.com/)Apr2025-Present
+
+
+---
+
+## 📚 Education
+
+- 🎓 B.Sc. in Computer Science/Islamic Azad University Central Tehran Branch *(in progress)*
+
+---
+
+## 🔧 Skills (Growing List)
+
+| Skill         | Level         |
+|---------------|---------------|
+| Python        | ⭐⭐⭐✰✰   |
+| Git & GitHub  | ⭐⭐✰✰✰    |
+| SQL           | ⭐⭐✰✰✰    |
+| Jupyter       | ⭐⭐⭐✰✰   |
+| Pandas/Numpy  | ⭐⭐⭐✰✰   |
+| Scikit-learn  | ⭐⭐✰✰✰    |
+| PowerBI       | ⭐⭐✰✰✰    |
+| Tableau       | ⭐⭐✰✰✰    |
+| Linux         | ⭐⭐✰✰✰    |
+
+> ⚠️ I'm still learning — this is an evolving journey.
+
+---
+
+## ✍️ Latest Posts
+
+Check out the [Blog Posts](/posts/) section to see what I'm writing and learning.
+
+---
+
+## 📬 Contact Me
+
+- GitHub: [Mahdipoorjahangiri](https://github.com/Mahdipoorjahangiri)  
+- LinkedIn: [mahdi-poorjahangiri](https://linkedin.com/in/mahdi-poorjahangiri)  
+- Telegram: [@mahdi_poorjahangiri](https://t.me/mahdi_poorjahangiri)
+
+---
+
+Thanks for visiting!  
+Feel free to connect, follow, or just say hi 👋
