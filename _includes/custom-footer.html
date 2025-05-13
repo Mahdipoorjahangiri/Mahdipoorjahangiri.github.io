@@ -1,18 +1,18 @@
-<footer class="site-footer">
-  <div class="container">
-    <div class="footer-content">
+<footer class="site-footer" style="padding: 1rem; background-color: #f8f8f8;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto;">
+    <div class="footer-content" style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div class="footer-contact">
         <h3>Contact Me</h3>
         <p>{{ site.author.email }}</p>
       </div>
       <div class="footer-social">
         <h3>Follow Me</h3>
-        <div class="social-links">
+        <div class="social-links" style="display: flex; flex-direction: column; gap: 0.5rem;">
           {% if site.author.github %}
-            <a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a>
+            <a href="https://github.com/{{ site.author.github }}" target="_blank" style="text-decoration: none; color: #333;">GitHub</a>
           {% endif %}
           {% if site.author.linkedin %}
-            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank">LinkedIn</a>
+            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" style="text-decoration: none; color: #333;">LinkedIn</a>
           {% endif %}
         </div>
       </div>
