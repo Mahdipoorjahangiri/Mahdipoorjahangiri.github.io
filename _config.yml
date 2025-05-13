@@ -11,10 +11,4 @@ minima:
     linkedin: https://linkedin.com/in/mahdi-poorjahangiri
     telegram: https://t.me/mahdi_poorjahangiri
 dark_mode: true
-font-awesome: true
-  font: "Fira Code"
-  icons:
-    - name: "github"
-      url: "  
-
 show_excerpts: true
