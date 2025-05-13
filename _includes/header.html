@@ -1,18 +1,18 @@
-<header class="site-header">
-  <div class="wrapper">
+<header class="site-header" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem;">
+  <div class="wrapper" style="width: 100%; max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact -%}
 
-    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}" style="font-weight: bold; text-decoration: none; color: #333;">
       {{ site.title | escape }}
     </a>
 
     <!-- Navigation Links -->
     <nav class="site-nav">
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/posts/' | relative_url }}">Post</a></li>
+      <ul style="list-style: none; padding: 0; display: flex; gap: 1rem; margin: 0;">
+        <li><a href="{{ '/' | relative_url }}" style="text-decoration: none; color: #333; font-weight: bold;">Home</a></li>
+        <li><a href="{{ '/posts/' | relative_url }}" style="text-decoration: none; color: #333; font-weight: bold;">Post</a></li>
       </ul>
     </nav>
   </div>
