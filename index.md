@@ -65,10 +65,13 @@ This website is my public learning journal.
 
 ---
 
-## ✍️ Latest Posts
-
-Check out the [Blog Posts](/posts/) section to see what I'm writing and learning.
-
+## Latest Posts
+{% for post in site.posts limit:3 %}
+- **{{ post.title }}**  
+  <small>{{ post.date | date: "%b %d, %Y" }}</small>  
+  {{ post.excerpt | strip_html | truncatewords: 15 }}
+{% endfor %}
+[View all posts](/posts)
 ---
 
 ## 📬 Contact Me

@@ -2,6 +2,7 @@
 layout: page
 title: All Posts
 permalink: /posts/
+toc: true
 ---
 
 # All Blog Posts
