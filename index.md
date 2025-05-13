@@ -1,5 +1,3 @@
-[GitHub](https://github.com/Mahdipoorjahangiri) • [LinkedIn](https://linkedin.com/in/mahdi-poorjahangiri) • [Telegram](https://t.me/mahdi_poorjahangiri)
-
 ---
 layout: page
 title: Home
@@ -7,6 +5,7 @@ permalink: /
 ---
 
 <div align="center">
+<img src="assets/img/HeadShot.jpg" alt="Mahdi Poor Jahangiri" width="180" style="border-radius: 50%; margin-bottom: 1rem;" />
 
 # 👋 Hi, I'm Mahdi Poor Jahangiri  
 **Aspiring Data Lover**
@@ -29,7 +28,7 @@ I’m a computer science student with a deep curiosity for tech, data,AI. I’m 
 
 ## 💼 Work Experience 
 
-- **Data Scientist Intern** – [tamironline](https://tamironline.com/)Apr2025-Present
+- **Data Scientist Intern** – [tamironline](https://tamironline.com/) Apr2025-Present
 
 
 ---
