@@ -1,7 +1,7 @@
 title: My Tech Journal
 description: Documenting my journey in tech and data
 author: Mahdi Poor Jahangiri
-author_email: mahdiporjahangiri.dev@gmail.com
+email: mahdiporjahangiri.dev@gmail.com
 
 theme: minima
 
@@ -10,5 +10,6 @@ minima:
     github: https://github.com/Mahdipoorjahangiri
     linkedin: https://linkedin.com/in/mahdi-poorjahangiri
     telegram: https://t.me/mahdi_poorjahangiri
+
 dark_mode: true
 show_excerpts: true
