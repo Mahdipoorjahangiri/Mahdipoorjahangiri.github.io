@@ -11,7 +11,7 @@ permalink: /
   <div>
 
   <h2>👋 Hi, I'm Mahdi Poor Jahangiri</h2>
-  <p><strong>Aspiring Data Lover</strong></p>/
+  <p><strong>Aspiring Data Lover</strong></p>
   <p>🌱 Exploring tech, data science, AI and Personal Growth</p>
   <p>🛠️ Learning by doing, sharing what I learn</p>
   <p>📍 Iran / Tehran | Fluent in Persian & English</p>
