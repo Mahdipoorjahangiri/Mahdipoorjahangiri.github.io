@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Sep 2025 20:05:02 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 04 Sep 2025 20:05:02 +0330</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to my new blog! This is my very first post, created with Hugo and the PaperMod theme.&lt;/p&gt;
+&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;
+&lt;p&gt;Hugo is a static site generator that is known for being &lt;strong&gt;extremely fast&lt;/strong&gt;. Here are a few things I&amp;rsquo;m excited to learn:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Writing in Markdown&lt;/li&gt;
+&lt;li&gt;Customizing a theme&lt;/li&gt;
+&lt;li&gt;Deploying on GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

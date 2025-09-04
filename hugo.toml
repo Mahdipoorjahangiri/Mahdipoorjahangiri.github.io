@@ -1,0 +1,24 @@
+baseURL = "https://Mahdipoorjahangiri.github.io/"
+languageCode = "en-us"
+title = "Blog" 
+theme = "papermod"
+
+[params]
+    author = "Mahdi Poor Jahangiri" # Replace with your name
+    description = "This is a description of my awesome blog!" 
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 10
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 20
