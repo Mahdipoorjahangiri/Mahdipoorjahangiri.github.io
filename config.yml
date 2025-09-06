@@ -1,0 +1,55 @@
+baseURL: "https://mahdipoorjahangiri.github.io/"
+title: "Mahdi Poorjahangiri's Blog"
+theme: "papermod"
+paginate: 5
+
+params:
+  # Theme Settings
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  
+  # Homepage Settings
+  profileMode:
+    enabled: true
+    title: "Mahdi Poorjahangiri"
+    subtitle: "Your subtitle here"
+    imageUrl: "img/profile.jpg"  # Add your profile image to static/img/
+    imageTitle: "profile image"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # Social Icons
+  socialIcons:
+    - name: github
+      url: "https://github.com/mahdipoorjahangiri"
+    - name: linkedin
+      url: "https://linkedin.com/in/mahdi-poorjahangiri"
+    - name: telegram
+      url: "https://t.me/mahdi_pourjahangiri"
+    - name: email     
+      url: "mailto:mahdiporjahangiri.dev@gmail.com"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
