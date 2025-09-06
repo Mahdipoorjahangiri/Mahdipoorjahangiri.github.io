@@ -4,36 +4,32 @@ theme: "papermod"
 paginate: 5
 
 params:
-  # Theme Settings
   defaultTheme: auto
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   
-  # Homepage Settings
   profileMode:
     enabled: true
     title: "Mahdi Poorjahangiri"
     subtitle: "Your subtitle here"
-    imageUrl: "img/profile.jpg"  # Add your profile image to static/img/
+    imageUrl: "img/profile.jpg"
     imageTitle: "profile image"
     buttons:
       - name: Posts
         url: posts
       - name: Tags
         url: tags
-
-  # Social Icons
-  socialIcons:
-    - name: github
-      url: "https://github.com/mahdipoorjahangiri"
-    - name: linkedin
-      url: "https://linkedin.com/in/mahdi-poorjahangiri"
-    - name: telegram
-      url: "https://t.me/mahdi_pourjahangiri"
-    - name: email     
-      url: "mailto:mahdiporjahangiri.dev@gmail.com"
+    socialIcons:
+      - name: github
+        url: "https://github.com/mahdipoorjahangiri"
+      - name: linkedin
+        url: "https://linkedin.com/in/mahdi-poorjahangiri"
+      - name: telegram
+        url: "https://t.me/mahdi_pourjahangiri"
+      - name: email
+        url: "mailto:mahdiporjahangiri.dev@gmail.com"
 
 menu:
   main:
