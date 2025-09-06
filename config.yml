@@ -10,12 +10,26 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   
+  # Add social Icons to homepage
+  socialIcons:
+    - name: github
+      url: "https://github.com/mahdipoorjahangiri"
+    - name: linkedin
+      url: "https://linkedin.com/in/mahdi-poorjahangiri"
+    - name: telegram
+      url: "https://t.me/mahdi_poorjahangiri"
+    - name: email
+      url: "mailto:mahdiporjahangiri.dev@gmail.com"
+
+  # Configure which share buttons to show
+  ShareButtons: ["linkedin", "telegram"]
+  
   profileMode:
     enabled: true
     title: "Mahdi Poorjahangiri"
-    subtitle: "Your subtitle here"
-    imageUrl: "img/profile.jpg"
-    imageTitle: "profile image"
+    subtitle: "Data Lover"
+    # imageUrl: "img/profile.jpg"
+    # imageTitle: "profile image"
     buttons:
       - name: Posts
         url: posts
@@ -27,7 +41,7 @@ params:
       - name: linkedin
         url: "https://linkedin.com/in/mahdi-poorjahangiri"
       - name: telegram
-        url: "https://t.me/mahdi_pourjahangiri"
+        url: "https://t.me/mahdi_poorjahangiri"
       - name: email
         url: "mailto:mahdiporjahangiri.dev@gmail.com"
 
